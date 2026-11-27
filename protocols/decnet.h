@@ -1,0 +1,2 @@
+/* DECnet */
+#define DECNET_ETHERTYPE	0x6004
