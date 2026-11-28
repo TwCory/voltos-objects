@@ -1,1 +1,1 @@
-/* Anything-in-Anything */
+/* Anything-in-Anything tunneling protocol */

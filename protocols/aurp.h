@@ -1,2 +1,2 @@
 /* AppleTalk Update-based Routing Protocol */
-#define AURP_PORT
+#define AURP_PORT			387

@@ -1,2 +1,3 @@
 /* DECnet */
 #define DECNET_ETHERTYPE	0x6004
+#define DECNET_PORT		399

@@ -1,0 +1,3 @@
+struct tagged_union {
+
+};

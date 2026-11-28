@@ -1,3 +1,3 @@
 /* Point-to-Point Protocol over Ethernet */
-#define PPPOE_DISCOVERY_ETHERTYPE		0x8863
-#define PPPOE_SESSION_ETHERTYPE			0x8864
+#define PPPOE_DS_ETHERTYPE			0x8863
+#define PPPOE_SS_ETHERTYPE			0x8864
